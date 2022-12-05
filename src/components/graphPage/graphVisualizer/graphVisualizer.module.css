@@ -1,0 +1,11 @@
+canvas {
+    margin-top: 1vw;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 30vw;
+    background-color: #b0fff4;
+    display: block;
+    object-fit: contain;
+    border-radius: 2vw;
+}   
