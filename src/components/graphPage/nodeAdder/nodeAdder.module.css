@@ -1,0 +1,33 @@
+
+.headers {
+    display: flex;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vw;
+}
+
+.name {
+    margin-left: 2vw;
+    font-size: 1.4vw;
+}
+
+.neighbors {
+    margin-left: 4vw;
+    font-size: 1.4vw;
+}
+
+.addNodeButton {
+    margin-left: 42%;
+    margin-top: 1vw;
+    margin-bottom: 5vw;
+    width: 15vw;
+    height: 3vw;
+    font-size: 2vw;
+    border-radius: 1.2vw;
+    background-color:azure;
+}
+
+.addNodeButton:hover {
+    cursor: pointer;
+    background-color:rgb(178, 191, 191);
+}
