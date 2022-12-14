@@ -1,0 +1,39 @@
+.mainDiv {
+    display: flex;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vw;
+}
+
+.firstColumn {
+    width: 4vw;
+    height: 2.5vw;
+    font-size: 2vw;
+    font-weight: 500;
+    padding-left: 3vw;
+    margin-right: 1vw;
+}
+
+.neighborsColumn {
+    width: 100%;
+    margin-left: 1vw;
+    font-size: 1.6vw;
+}
+
+.colon {
+    font-size: 2vw;
+}
+
+.deleteButton {
+    width: 15vw;
+    background-color: red;
+    color: #ffffff;
+    border-width: 0.1vw;
+    margin-left: 1.5vw;
+}
+
+.deleteButton:hover {
+    cursor: pointer;
+    background-color: rgb(191, 2, 2);
+}
+

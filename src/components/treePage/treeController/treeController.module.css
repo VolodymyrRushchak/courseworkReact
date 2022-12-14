@@ -1,0 +1,44 @@
+.mainDiv {
+    margin: 1vw 5vw 1vw 5vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.input {
+    width: 10vw;
+    height: 2vw;
+    font-size: 1.3vw;
+    padding-left: 0.5vw;
+    border-radius: 1vw;
+}
+
+.button {
+    margin-left: 1vw;
+    width: 5vw;
+    background-color: #46f7fa;
+    border-radius: 1vw;
+    border-width: 0.1vw;
+    height: 2.5vw;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: #2dc5c7;
+}
+
+.subDiv {
+    display: flex;
+}
+
+.homeBtn {
+    width: 8vw;
+    height: 2.5vw;
+    background-color: #46f7fa;
+    border-radius: 1vw;
+    border-width: 0.1vw;
+}
+
+.homeBtn:hover {
+    cursor: pointer;
+    background-color: #39d7da;
+}

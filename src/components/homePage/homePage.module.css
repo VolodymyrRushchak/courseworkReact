@@ -1,0 +1,43 @@
+.mainDiv {
+    margin-top: 2vw;
+    display: flex;
+    justify-content: space-around;
+}
+
+.columnDiv {
+    width: 40%;
+    text-align: center;
+}
+
+.subtaskDiv {
+    height: 28vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(135, 251, 251);
+    border-radius: 2vw;
+    font-size: 3vw;
+}
+
+.startButton {
+    margin-top: 2vw;
+    width: 15vw;
+    height: 3vw;
+    border-radius: 1vw;
+    border-width: 0.1vw;
+    background-color:aliceblue;
+    font-size: 1.6vw;
+}
+
+.startButton:hover {
+    cursor: pointer;
+    background-color: rgb(178, 183, 188);
+}
+
+.footer {
+    margin-top: 3vw;
+    font-size: 2vw;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
