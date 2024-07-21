@@ -1,0 +1,21 @@
+.mainDiv {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 1vw;
+    justify-content: space-around;
+    display: flex;
+}
+
+.controlButton {
+    width: 12vw;
+    height: 3vw;
+    font-size: 1.7vw;
+    background-color:#46f7fa;
+    border-radius: 2vw;
+    border-width: 0.1vw;
+}
+
+.controlButton:hover {
+    cursor: pointer;
+    background-color: #39cccf;
+}
